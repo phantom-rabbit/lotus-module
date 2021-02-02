@@ -1,1 +1,1 @@
-package post_message
+package miner

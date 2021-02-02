@@ -1,4 +1,4 @@
-package modules
+package lotus_module
 
 import (
 	"database/sql/driver"
