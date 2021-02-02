@@ -1,4 +1,4 @@
-package lotus_module
+package module
 
 type IdAddressTable struct {
 	AddrID            string `gorm:"index;not null;"`

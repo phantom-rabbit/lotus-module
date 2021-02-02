@@ -1,4 +1,4 @@
-package lotus_module
+package module
 
 type Ts struct {
 	ID                 uint `gorm:"primarykey"`
